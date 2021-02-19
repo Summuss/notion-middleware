@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    url: jdbc:mysql://deve:3307/notion_middleware?useUnicode=true&useSSL=false&characterEncoding=UTF-8
+
+    username: root
+    password: summus
+    driver-class-name: com.mysql.jdbc.Driver
