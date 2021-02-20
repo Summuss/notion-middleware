@@ -13,6 +13,6 @@ public class HinShiSourceRelation {
     @TableField("hinshi_id")
     private Long hinShiId;
 
-    @TableId("hinshi_source_id")
+    @TableField("hinshi_source_id")
     private Long hinshiSourceId;
 }
